@@ -1,5 +1,7 @@
 # 📘 Mini Wikipedia (PySide6)
 
+Pobierz tutaj: https://www.mediafire.com/folder/wyjtahbjs3jfz/Wikipedia
+
 Interaktywna, desktopowa aplikacja typu **wiki**, napisana w **Python + PySide6**,  
 umożliwiająca przeglądanie artykułów z **lokalnych folderów** oraz **repozytorium GitHub**.
 
